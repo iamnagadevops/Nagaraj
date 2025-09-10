@@ -1,2 +1,2 @@
 # Nagaraj
-Aws and Decops
+Aws and Devops
